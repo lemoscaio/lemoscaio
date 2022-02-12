@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying to become a full-stack developer. HTML / CSS / JavaScript
 - 😄 Pronouns: EN: he/him PT-BR: ele/dele
-- ⚡ Fun fact: I have an youtube channel
+- ⚡ Fun fact: I have an youtube channel, not about programming, but about tech in general.
 
 
 
