@@ -1,23 +1,22 @@
 <div align="right">
 
-<a align="right" href="https://github.com/lemoscaio/lemoscaio/blob/main/README.pt-br.md">🔁 Change to Portuguese.  <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
+<a align="right" href="https://github.com/lemoscaio">🔁 Change to English.  <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/us.png"></a>
 
 </div>
 
-## Hi! I'm Caio Lemos. 
-### I'm a software developer and a former civil engineer who decided to change careers.
+## Olá! Eu me chamo Caio Lemos.
+### Sou desenvolvedor de software e um ex-engenheiro civil que decidiu mudar de carreira.
 <br>
 
-- Over 20 projects developed during a 9-months bootcamp (+700 hours). 🧠
-  - React.js, Node.js, SQL and NOSQL DBs and a lot of effort put in.
-- Pronouns: he/him. 😄
-- I'm a lover for short-legged dogs, specially Mark, my dachshund. 🌭🐶 
-- Brazilian. :brazil:
-- Fun fact: I have an youtube channel, not about programming, but about tech in general. ⚡
+- Mais de 20 projetos desenvolvidos durante um bootcampd e 9 meses (+700 horas). 🧠
+  - React.js, Node.js, bancos de dados SQL e NOSQL e muito esforço e estudo colocados neles.
+- Pronomes: ele/dele. 😄
+- Sou um amante de cães rebaixados, especialmente o Mark, meu salsichinha. 🌭🐶
+- Fun fact: Eu tenho um canal no youube, não sobre programação, mas sobre tech no geral. ⚡
 
 ##
 
-  ### 📊 GitHub status
+  ### 📊 Status do GitHub
 
   <div style="width:100%">
     <a href="https://github.com/lemoscaio">
@@ -36,7 +35,7 @@
   
 
 
-  ### 📧 My contacts
+  ### 📧 Meus contatos
   
   <div>
     <a href="https://www.linkedin.com/in/caiodeoliveiralemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -45,8 +44,8 @@
   </div> 
   
 
-  ### ⚒️ My Stack
--   _**Languages**_
+  ### ⚒️ Minha stack
+-   _**Linguagens**_
     <p>
       <img alt="HTML 5" src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
       <img alt="CSS 3" src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&  labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge">
@@ -70,14 +69,14 @@
       <img alt="Prisma" src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
--   _**Databases**_
+-   _**Bancos de dados**_
     <p>
       <img alt="PostgreSQL" src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">    
       <img alt="MongoDB" src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Redis" src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
--   _**Tests**_
+-   _**Testes**_
     <p>
       <img alt="Jest" src="https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=C21320&color=C21320&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Cypress" src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge">
@@ -97,7 +96,7 @@
       <img alt="Heroku" src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=430098&color=430098&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
--   _**Tools**_
+-   _**Ferramentas**_
     <p>
     <img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
     <img alt="Trello" src="https://img.shields.io/static/v1?message=Trello&logo=Trello&labelColor=0052CC&color=0052CC&logoColor=white&label=%20&style=for-the-badge">
@@ -105,7 +104,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
--   _**OS**_
+-   _**Sistemas operacionais**_
     <p>
     <img alt="Linux" src="https://img.shields.io/static/v1?message=Linux&logo=Linux&labelColor=FCC624&color=FCC624&logoColor=black&label=%20&style=for-the-badge">
     </p>
