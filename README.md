@@ -12,7 +12,7 @@
   - React.js, Node.js, SQL and NOSQL DBs and a lot of effort put in.
 - Pronouns: he/him. 😄
 - I'm a lover for short-legged dogs, specially Mark, my dachshund. 🌭🐶 
-- Brazilian. :brazil:
+- Brazilian. <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png">
 - Fun fact: I have an youtube channel, not about programming, but about tech in general. ⚡
 
 ##
