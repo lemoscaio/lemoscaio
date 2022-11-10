@@ -8,7 +8,7 @@
 ### Sou desenvolvedor de software e um ex-engenheiro civil que decidiu mudar de carreira.
 <br>
 
-- Mais de 20 projetos desenvolvidos durante um bootcampd e 9 meses (+700 horas). 🧠
+- Mais de [20 projetos](https://github.com/stars/lemoscaio/lists/driven-bootcamp-projects) desenvolvidos durante um bootcampd e 9 meses (+700 horas). 🧠
   - React.js, Node.js, bancos de dados SQL e NOSQL e muito esforço e estudo colocados neles.
 - Pronomes: ele/dele. 😄
 - Sou um amante de cães rebaixados, especialmente o Mark, meu salsichinha. 🌭🐶
