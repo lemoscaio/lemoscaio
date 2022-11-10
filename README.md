@@ -8,7 +8,7 @@
 ### I'm a software developer and a former civil engineer who decided to change careers.
 <br>
 
-- Over 20 projects developed during a 9-months bootcamp (+700 hours). 🧠
+- Over [20 projects](https://github.com/stars/lemoscaio/lists/driven-bootcamp-projects) developed during a 9-months bootcamp (+700 hours). 🧠
   - React.js, Node.js, SQL and NOSQL DBs and a lot of effort put in.
 - Pronouns: he/him. 😄
 - I'm a lover for short-legged dogs, specially Mark, my dachshund. 🌭🐶 
