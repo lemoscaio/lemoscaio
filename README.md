@@ -1,19 +1,22 @@
-<div align="right">
-
-<a align="right" href="https://github.com/lemoscaio/lemoscaio/blob/main/README.pt-br.md">🔁 Change to Portuguese.  <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png"></a>
-
-</div>
-
-## Hi! I'm Caio Lemos. 
-### I'm a software developer and a former civil engineer who decided to change careers.
+## Hi! I'm Caio Lemos 🇧🇷.
 <br>
 
+-	Full-Stack Software Engineer with over 4 years of experience specializing in JavaScript, React.js, Node.js, and TypeScript.
+    -	Proficient in modern web technologies including Next.js, React Native, Electron, and various state management libraries like Redux and Zustand.
+    -	Experienced with backend technologies such as Express, Fastify, Prisma, and databases like PostgreSQL, MongoDB, and Redis.
+    -	Skilled in cloud services and deployment using AWS, Docker, Kubernetes, and CI/CD pipelines with GitHub Actions.
+- I'm a lover for short-legged dogs, specially Mark, my dachshund. 🌭🐶 
 - Over [20 projects](https://github.com/stars/lemoscaio/lists/driven-bootcamp-projects) developed during a 9-months bootcamp (+700 hours). 🧠
   - React.js, Node.js, SQL and NOSQL DBs and a lot of effort put in.
-- Pronouns: he/him. 😄
-- I'm a lover for short-legged dogs, specially Mark, my dachshund. 🌭🐶 
-- Brazilian. <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/br.png">
-- Fun fact: I have an youtube channel, not about programming, but about tech in general. ⚡
+- Fun fact: I have an youtube channel about tech. ⚡
+
+ ### 📧 My contacts
+  
+  <div>
+    <a href="https://www.linkedin.com/in/caiodeoliveiralemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.youtube.com/graduacaonerd" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href = "mailto:caio_lemos94@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div> 
 
 ##
 
@@ -25,25 +28,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemoscaio&layout=compact&langs_count=7&theme=radical"/>
     </a>
   </div>
-
-  ### 🕛 Wakatime
-
-  <div align="left">
-
-  [![wakatime](https://wakatime.com/badge/user/28e917fb-bdf9-451a-862c-e1dbe97f3940.svg)](https://wakatime.com/@28e917fb-bdf9-451a-862c-e1dbe97f3940)
-  
-  </div>
-  
-
-
-  ### 📧 My contacts
-  
-  <div>
-    <a href="https://www.linkedin.com/in/caiodeoliveiralemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.youtube.com/graduacaonerd" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href = "mailto:caio_lemos94@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div> 
-  
 
   ### ⚒️ My Stack
 -   _**Languages**_
